@@ -1,0 +1,22 @@
+body {
+    background-image: url("../img/body.png");
+}
+
+body,
+h1,
+h2,
+p,
+li {
+    font-family: 'Indie Flower', cursive;
+    color: white;
+}
+
+.jumbotron {
+    background-color: green;
+    background-image: url("../img/body.png");
+    color: white;
+}
+
+.icon {
+    font-size: 5rem;
+}
